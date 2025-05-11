@@ -1,0 +1,1256 @@
+Found 114 examples where best model is correct and worst model is wrong
+
+Example 1:
+Sentence 1: Magnarelli said Racicot hated the Iraqi regime and looked forward to using his long years of training in the war .
+Sentence 2: His wife said he was " 100 percent behind George Bush " and looked forward to using his years of training in the war .
+Sentence 1 length: 21 words
+Sentence 2 length: 25 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9953
+Worst model confidence: 0.6317
+
+Example 2:
+Sentence 1: The dollar was at 116.92 yen against the yen , flat on the session , and at 1.2891 against the Swiss franc , also flat .
+Sentence 2: The dollar was at 116.78 yen JPY = , virtually flat on the session , and at 1.2871 against the Swiss franc CHF = , down 0.1 percent .
+Sentence 1 length: 26 words
+Sentence 2 length: 29 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9924
+Worst model confidence: 0.6317
+
+Example 3:
+Sentence 1: No dates have been set for the civil or the criminal trial .
+Sentence 2: No dates have been set for the criminal or civil cases , but Shanley has pleaded not guilty .
+Sentence 1 length: 13 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9943
+Worst model confidence: 0.6317
+
+Example 4:
+Sentence 1: " Sanitation is poor ... there could be typhoid and cholera , " he said .
+Sentence 2: " Sanitation is poor , drinking water is generally left behind . . . there could be typhoid and cholera . "
+Sentence 1 length: 16 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9949
+Worst model confidence: 0.6317
+
+Example 5:
+Sentence 1: The broader Standard & Poor 's 500 Index .SPX gave up 11.91 points , or 1.19 percent , at 986.60 .
+Sentence 2: The technology-laced Nasdaq Composite Index was down 25.36 points , or 1.53 percent , at 1,628.26 .
+Sentence 1 length: 21 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9920
+Worst model confidence: 0.6317
+
+Example 6:
+Sentence 1: In midafternoon trading , the Nasdaq composite index was up 8.34 , or 0.5 percent , to 1,790.47 .
+Sentence 2: The Nasdaq Composite Index .IXIC dipped 8.59 points , or 0.48 percent , to 1,773.54 .
+Sentence 1 length: 19 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9911
+Worst model confidence: 0.6317
+
+Example 7:
+Sentence 1: The pound also made progress against the dollar , reached fresh three-year highs at $ 1.6789 .
+Sentence 2: The British pound flexed its muscle against the dollar , last up 1 percent at $ 1.6672 .
+Sentence 1 length: 17 words
+Sentence 2 length: 18 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9941
+Worst model confidence: 0.6317
+
+Example 8:
+Sentence 1: Friday , Stanford ( 47-15 ) blanked the Gamecocks 8-0 .
+Sentence 2: Stanford ( 46-15 ) has a team full of such players this season .
+Sentence 1 length: 11 words
+Sentence 2 length: 14 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9943
+Worst model confidence: 0.6317
+
+Example 9:
+Sentence 1: The driver , Eugene Rogers , helped to remove children from the bus , Wood said .
+Sentence 2: At the accident scene , the driver was " covered in blood " but helped to remove children , Wood said .
+Sentence 1 length: 17 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9828
+Worst model confidence: 0.6317
+
+Example 10:
+Sentence 1: Cooley said he expects Muhammad will similarly be called as a witness at a pretrial hearing for Malvo .
+Sentence 2: Lee Boyd Malvo will be called as a witness Wednesday in a pretrial hearing for fellow sniper suspect John Allen Muhammad .
+Sentence 1 length: 19 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9933
+Worst model confidence: 0.6317
+
+Example 11:
+Sentence 1: With these assets , Funny Cide has a solid chance to become the first Triple Crown winner since Affirmed in 1978 .
+Sentence 2: Funny Cide is looking to become horse racing 's first Triple Crown winner in a generation .
+Sentence 1 length: 22 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9934
+Worst model confidence: 0.6317
+
+Example 12:
+Sentence 1: Bush wanted " to see an aircraft landing the same way that the pilots saw an aircraft landing , " White House press secretary Ari Fleischer said yesterday .
+Sentence 2: On Tuesday , before Byrd 's speech , Fleischer said Bush wanted ' ' to see an aircraft landing the same way that the pilots saw an aircraft landing .
+Sentence 1 length: 29 words
+Sentence 2 length: 30 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9855
+Worst model confidence: 0.6317
+
+Example 13:
+Sentence 1: On Monday the Palestinian Prime Minister , Mahmoud Abbas , will report to the Palestinian parliament on his Government 's achievements in its first 100 days in office .
+Sentence 2: Palestinian Prime Minister Mahmoud Abbas must defend the record of his first 100 days in office before Parliament today as the death toll in the occupied territories continues to rise .
+Sentence 1 length: 29 words
+Sentence 2 length: 31 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9945
+Worst model confidence: 0.6317
+
+Example 14:
+Sentence 1: The civilian unemployment rate improved marginally last month -- slipping to 6.1 percent -- even as companies slashed payrolls by 93,000 .
+Sentence 2: The civilian unemployment rate improved marginally last month _ sliding down to 6.1 percent _ as companies slashed payrolls by 93,000 amid continuing mixed signals about the nation 's economic health .
+Sentence 1 length: 22 words
+Sentence 2 length: 32 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9950
+Worst model confidence: 0.6317
+
+Example 15:
+Sentence 1: SARS has killed about 800 people and affected more than 8400 since being detected in China in November .
+Sentence 2: SARS has killed about 800 people and sickened more than 8,400 worldwide , mostly in Asia .
+Sentence 1 length: 19 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9953
+Worst model confidence: 0.6317
+
+Example 16:
+Sentence 1: " Jeremy 's a good guy , " Barber said , adding : " Jeremy is living the dream life of the New York athlete .
+Sentence 2: He also said Shockey is " living the dream life of a New York athlete .
+Sentence 1 length: 26 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9924
+Worst model confidence: 0.6317
+
+Example 17:
+Sentence 1: Ratliff 's daughters , Margaret and Martha Ratliff , were adopted by Peterson after their mother 's death .
+Sentence 2: Peterson helped raise Ratliff 's two daughters , Margaret and Martha Ratliff , who supported him throughout the trial .
+Sentence 1 length: 19 words
+Sentence 2 length: 20 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9919
+Worst model confidence: 0.6317
+
+Example 18:
+Sentence 1: After losing as much as 84.56 earlier , the Dow Jones industrial average closed up 22.81 , or 0.2 percent , at 9,340.45 .
+Sentence 2: In midday trading , the Dow Jones industrial average lost 68.84 , or 0.7 percent , to 9,248.80 .
+Sentence 1 length: 24 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9889
+Worst model confidence: 0.6317
+
+Example 19:
+Sentence 1: He has no immediate plans for television advertising , believing it is unnecessary this early .
+Sentence 2: A Lieberman aide said there were no immediate plans for television advertising .
+Sentence 1 length: 16 words
+Sentence 2 length: 13 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9950
+Worst model confidence: 0.6317
+
+Example 20:
+Sentence 1: Terri Schiavo , 39 , is expected to die sometime in the next two weeks in the Tampa-area hospice where she has spent the past several years .
+Sentence 2: Terri Schiavo , 39 , underwent the procedure at the Tampa Bay area hospice where she has been living for several years , said her father , Bob Schindler .
+Sentence 1 length: 28 words
+Sentence 2 length: 30 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9931
+Worst model confidence: 0.6317
+
+Example 21:
+Sentence 1: The Dow Jones industrial average ended the day down 10.89 at 9,837.94 , after advancing 111.04 Wednesday .
+Sentence 2: The Dow Jones industrial average fell 10.89 points , or 0.11 percent , to 9,837.94 .
+Sentence 1 length: 18 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9934
+Worst model confidence: 0.6317
+
+Example 22:
+Sentence 1: " Biotech products , if anything , may be safer than conventional products because of all the testing , " Fraley said , adding that 18 countries have adopted biotechnology .
+Sentence 2: " Biotech products , if anything , may be safer than conventional products because of all the testing , " said Robert Fraley , Monsanto 's executive vice president .
+Sentence 1 length: 31 words
+Sentence 2 length: 30 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9949
+Worst model confidence: 0.6317
+
+Example 23:
+Sentence 1: Danbury prosecutor Warren Murray could not be reached for comment Monday .
+Sentence 2: Prosecutors could not be reached for comment after the legal papers were obtained late Monday afternoon .
+Sentence 1 length: 12 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9951
+Worst model confidence: 0.6317
+
+Example 24:
+Sentence 1: Shattered Glass , " starring Hayden Christensen as Stephen Glass , debuted well with $ 80,000 in eight theaters .
+Sentence 2: " Shattered Glass " _ starring Hayden Christensen as Stephen Glass , The New Republic journalist fired for fabricating stories _ debuted well with $ 80,000 in eight theaters .
+Sentence 1 length: 20 words
+Sentence 2 length: 30 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9929
+Worst model confidence: 0.6317
+
+Example 25:
+Sentence 1: The reports helped overcome investor jitters after the euro briefly hit an all-time high against the dollar Tuesday .
+Sentence 2: Stocks slipped at the open after the euro hit record highs against the dollar .
+Sentence 1 length: 19 words
+Sentence 2 length: 15 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9953
+Worst model confidence: 0.6317
+
+Example 26:
+Sentence 1: " I don 't know if the person I 'm talking to now may end up being someone else at another time that may not follow the rules , " Parrish said .
+Sentence 2: " I don 't know whether the person I 'm talking to now may end up being someone else , " Parrish said .
+Sentence 1 length: 33 words
+Sentence 2 length: 24 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9893
+Worst model confidence: 0.6317
+
+Example 27:
+Sentence 1: One , Capt. Doug McDonald , remained hospitalized in critical condition on Thursday .
+Sentence 2: Her 20-year-old sister , Allyson , was severely burned and remained hospitalized in critical condition .
+Sentence 1 length: 14 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9940
+Worst model confidence: 0.6317
+
+Example 28:
+Sentence 1: The United States finally relented during President Bush 's visit to Africa earlier this month .
+Sentence 2: During President Bush 's trip to Africa earlier this month , however , Washington said it would support the increase .
+Sentence 1 length: 16 words
+Sentence 2 length: 21 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9944
+Worst model confidence: 0.6317
+
+Example 29:
+Sentence 1: Kansas Department of Health and Environment records show there were 88 abortions performed on girls age 14 and younger last year .
+Sentence 2: Statistics from the Kansas Department of Health and Environment show that 11,844 abortions were performed in the state last year .
+Sentence 1 length: 22 words
+Sentence 2 length: 21 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9867
+Worst model confidence: 0.6317
+
+Example 30:
+Sentence 1: A European Union spokesman said the Commission was consulting EU member states " with a view to taking appropriate action if necessary " on the matter .
+Sentence 2: Laos 's second most important export destination - said it was consulting EU member states ' ' with a view to taking appropriate action if necessary ' ' on the matter .
+Sentence 1 length: 27 words
+Sentence 2 length: 32 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9940
+Worst model confidence: 0.6317
+
+Example 31:
+Sentence 1: One way or another , Harry Potter And The Order Of The Phoenix will be in your hands by Saturday .
+Sentence 2: Just about everything about " Harry Potter and the Order of the Phoenix " will set records .
+Sentence 1 length: 21 words
+Sentence 2 length: 18 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9778
+Worst model confidence: 0.6317
+
+Example 32:
+Sentence 1: Ernst & Young has denied any wrongdoing and plans to fight the allegations .
+Sentence 2: Ernst & Young has denied the SEC 's claims , and called its recommendations " irresponsible " .
+Sentence 1 length: 14 words
+Sentence 2 length: 18 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9944
+Worst model confidence: 0.6317
+
+Example 33:
+Sentence 1: He allegedly told his ex-wife in an angry phone call that he had no intention of following their new custody agreement .
+Sentence 2: The two had battled over custody and he allegedly told her in an angry phone call that he had no intention of following their new custody agreement .
+Sentence 1 length: 22 words
+Sentence 2 length: 28 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9915
+Worst model confidence: 0.6317
+
+Example 34:
+Sentence 1: In fiction : Edward P. Jones ( " The Known World " ) and Scott Spencer ( " A Ship Made of Paper " ) .
+Sentence 2: The fifth nominee for fiction is Scott Spencer , for A Ship Made of Paper .
+Sentence 1 length: 26 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9225
+Worst model confidence: 0.6317
+
+Example 35:
+Sentence 1: Vivace was founded in 1999 and has raised over $ 118 million in three rounds of venture financing .
+Sentence 2: During difficult times for technology venture capital , Vivace raised over $ 118 million in three rounds of venture financing .
+Sentence 1 length: 19 words
+Sentence 2 length: 21 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9953
+Worst model confidence: 0.6317
+
+Example 36:
+Sentence 1: The Dow Jones industrial average < .DJI > added 28 points , or 0.27 percent , at 10,557 , hitting its highest level in 21 months .
+Sentence 2: The Dow Jones industrial average < .DJI > rose 49 points , or 0.47 percent , to 10,578 .
+Sentence 1 length: 27 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9936
+Worst model confidence: 0.6317
+
+Example 37:
+Sentence 1: The Neighbours star and singer spent yesterday resting at her family home in Sydney and will have more tests today .
+Sentence 2: Goodrem spent yesterday resting in her family home in Sydney and will have more tests today to determine her exact treatment .
+Sentence 1 length: 21 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9917
+Worst model confidence: 0.6317
+
+Example 38:
+Sentence 1: The 3 rd Armored Cavalry Regiment is 5,200 strong and the largest combat unit at Fort Carson .
+Sentence 2: Broomhead , 34 , was assigned to the 2nd Squadron , 3rd Armored Cavalry Regiment .
+Sentence 1 length: 18 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9950
+Worst model confidence: 0.6317
+
+Example 39:
+Sentence 1: " It is bad for Symbian , " said Per Lindberg , analyst at Dresdner Kleinwort Wasserstein .
+Sentence 2: " Motorola has displayed clear disloyalty " to Symbian , said Per Lindberg , an analyst at Dresdner Kleinwort Wasserstein in London .
+Sentence 1 length: 18 words
+Sentence 2 length: 23 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9948
+Worst model confidence: 0.6317
+
+Example 40:
+Sentence 1: President Bush raised a record-breaking $ 49.5 million for his re-election campaign over the last three months , with contributions from 262,000 Americans , the president 's campaign chairman said Tuesday .
+Sentence 2: President Bush has raised $ 83.9 million since beginning his re-election campaign in May , and has $ 70 million of that left to spend , his campaign said Tuesday .
+Sentence 1 length: 32 words
+Sentence 2 length: 31 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9951
+Worst model confidence: 0.6317
+
+Example 41:
+Sentence 1: The blasts killed two people and injured more than 150 others .
+Sentence 2: The Atlanta Olympic Games attack killed one woman and injured more than 100 other people .
+Sentence 1 length: 12 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9855
+Worst model confidence: 0.6317
+
+Example 42:
+Sentence 1: Morrill 's wife , Ellie , sobbed and hugged Bondeson 's sister-in-law during the service .
+Sentence 2: At the service Morrill 's widow , Ellie , sobbed and hugged Bondeson 's sister-in-law as people consoled her .
+Sentence 1 length: 16 words
+Sentence 2 length: 20 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9938
+Worst model confidence: 0.6317
+
+Example 43:
+Sentence 1: Christina 's aunt , Shelley Riling , said the defense 's claims were preposterous .
+Sentence 2: Christina 's aunt , Shelley Riling , said she will address the court .
+Sentence 1 length: 15 words
+Sentence 2 length: 14 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.8737
+Worst model confidence: 0.6317
+
+Example 44:
+Sentence 1: Lord Falconer hailed the changes as " a new beginning as far as the courts , Crown Prosecution Service and police are concerned " .
+Sentence 2: " It 's a new beginning as far as the courts , Crown Prosecution Service and police are concerned , making the criminal justice system work better . "
+Sentence 1 length: 25 words
+Sentence 2 length: 29 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9951
+Worst model confidence: 0.6317
+
+Example 45:
+Sentence 1: GE stock closed at $ 30.65 a share , down about 42 cents , on the New York Stock Exchange .
+Sentence 2: GE 's shares closed at $ 30.65 on Friday on the New York Stock Exchange .
+Sentence 1 length: 21 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9925
+Worst model confidence: 0.6317
+
+Example 46:
+Sentence 1: The agency charged that one WD Energy worker discussed false reporting with traders at two other energy companies .
+Sentence 2: The agency found further that a WD Energy employee discussed false reporting with traders at two other energy companies , which the CFTC didn 't identify .
+Sentence 1 length: 19 words
+Sentence 2 length: 27 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.8025
+Worst model confidence: 0.6317
+
+Example 47:
+Sentence 1: Q : Can I buy coverage for prescription drugs right away ?
+Sentence 2: Congress has added a new benefit - an option to buy insurance coverage for prescription drugs .
+Sentence 1 length: 12 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9905
+Worst model confidence: 0.6317
+
+Example 48:
+Sentence 1: The chain operates more than 3,400 stores , and has annual revenue of about $ 15.8 billion .
+Sentence 2: The chain , which has been under new management since late 1999 , has more than 3,400 stores and $ 15.8 billion in annual revenue .
+Sentence 1 length: 18 words
+Sentence 2 length: 26 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9941
+Worst model confidence: 0.6317
+
+Example 49:
+Sentence 1: But Chauncey Billups demonstrated he 's also capable of big games , scoring 77 points over the final two games against the Magic .
+Sentence 2: Billups scored 77 points in the final two games of the first-round series against the Magic .
+Sentence 1 length: 24 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9937
+Worst model confidence: 0.6317
+
+Example 50:
+Sentence 1: And it 's going to be a wild ride , " said Allan Hoffenblum , a Republican consultant .
+Sentence 2: Now the rest is just mechanical , " said Allan Hoffenblum , a Republican consultant .
+Sentence 1 length: 19 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9938
+Worst model confidence: 0.6317
+
+Example 51:
+Sentence 1: The WHO experts didn 't say how many cases in Hebei were in rural areas .
+Sentence 2: Hebei has reported 191 cases and eight deaths , though the WHO experts did not say how many were in rural areas .
+Sentence 1 length: 16 words
+Sentence 2 length: 23 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9956
+Worst model confidence: 0.6317
+
+Example 52:
+Sentence 1: About two hours later , his body , wrapped in a blanket , was found dumped a few blocks away .
+Sentence 2: Then his body was dumped a few blocks away , found in a driveway on Argyle Road .
+Sentence 1 length: 21 words
+Sentence 2 length: 18 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.8554
+Worst model confidence: 0.6317
+
+Example 53:
+Sentence 1: The Lord Chancellor was guardian of the Great Seal , used to stamp all official documents from the sovereign .
+Sentence 2: Falconer will hold on , for now , to the Lord Chancellor 's Great Seal , used to sign off instructions from the sovereign .
+Sentence 1 length: 20 words
+Sentence 2 length: 25 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9927
+Worst model confidence: 0.6317
+
+Example 54:
+Sentence 1: The world 's largest software company said it recognized the difficulty the multiple patches posed for companies , and set out to make it easier for them to apply the updates .
+Sentence 2: The world 's largest software company said it recognized the difficulty the multiple patches posed for companies trying to apply them .
+Sentence 1 length: 32 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9930
+Worst model confidence: 0.6317
+
+Example 55:
+Sentence 1: Based on a separate survey of households , the unemployment rate fell in August to 6.1 percent from 6.2 percent .
+Sentence 2: Labor Department analysts discounted a slight improvement in the national unemployment rate , which fell in August to 6.1 percent from 6.2 percent .
+Sentence 1 length: 21 words
+Sentence 2 length: 24 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9947
+Worst model confidence: 0.6317
+
+Example 56:
+Sentence 1: " I had one bad stretch of holes that put me out of contention to win , " Woods said .
+Sentence 2: " I had one bad stretch of holes that put me out of contention , " Woods said , referring to his 42 on the front nine Saturday .
+Sentence 1 length: 21 words
+Sentence 2 length: 29 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9906
+Worst model confidence: 0.6317
+
+Example 57:
+Sentence 1: Watertown , Saugus and Framingham also are going smoke-free Monday , joining a growing number of cities around the country .
+Sentence 2: Along with Boston , Watertown , Saugus and Framingham also are going smoke-free Monday .
+Sentence 1 length: 21 words
+Sentence 2 length: 15 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9948
+Worst model confidence: 0.6317
+
+Example 58:
+Sentence 1: White , who had suffered kidney failure from years of high blood pressure , died at Cedars-Sinai Medical Center around 9 : 30 a.m. , said manager Ned Shankman .
+Sentence 2: White , who had kidney failure from years of high blood pressure , had been undergoing dialysis and had been hospitalized since a September stroke .
+Sentence 1 length: 30 words
+Sentence 2 length: 26 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9949
+Worst model confidence: 0.6317
+
+Example 59:
+Sentence 1: Twenty percent of Latino students and 23 percent of black students performed at proficient or higher .
+Sentence 2: In math , 16 percent of elementary and middle school students and 9.6 percent of high school students must be proficient .
+Sentence 1 length: 17 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9947
+Worst model confidence: 0.6317
+
+Example 60:
+Sentence 1: He tried to fight off officers and was taken to a hospital after a police dog bit him but was later released .
+Sentence 2: Cruz tried to fight off officers and was hospitalized after a police dog bit him , Sgt. Steve Dixon said .
+Sentence 1 length: 23 words
+Sentence 2 length: 21 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9877
+Worst model confidence: 0.6317
+
+Example 61:
+Sentence 1: Asked if the delegates could leave on Friday , police intelligence chief in Aceh , Surya Dharma , told reporters they could not because they did not have proper permission .
+Sentence 2: Asked if the delegates could leave on Friday , police intelligence chief Surya Dharma told reporters : " Of course they may not go .
+Sentence 1 length: 31 words
+Sentence 2 length: 25 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9950
+Worst model confidence: 0.6317
+
+Example 62:
+Sentence 1: Iran has until the end of the month to satisfy the agency it has no plans for nuclear weapons .
+Sentence 2: The Iranians have until the end of the month to answer all the agency 's questions about their past nuclear activities .
+Sentence 1 length: 20 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9950
+Worst model confidence: 0.6317
+
+Example 63:
+Sentence 1: Claire had advanced to the third round of the 76th annual Scripps Howard National Spelling Bee .
+Sentence 2: One by one they strolled to the microphone , all 251 youngsters in the 76th Scripps Howard National Spelling Bee .
+Sentence 1 length: 17 words
+Sentence 2 length: 21 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9913
+Worst model confidence: 0.6317
+
+Example 64:
+Sentence 1: But late Thursday night , the campaign issued a statement saying there would be no news conference and no big announcement .
+Sentence 2: But late yesterday , the campaign and the state Democratic Party said there would be no news conference .
+Sentence 1 length: 22 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9916
+Worst model confidence: 0.6317
+
+Example 65:
+Sentence 1: " We think that the United States of America should support the free speech of all groups , " Mr. White said , objecting to Mr. Olson 's recommendation .
+Sentence 2: We think that the United States of America should support the free speech of all groups , he said .
+Sentence 1 length: 30 words
+Sentence 2 length: 20 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9868
+Worst model confidence: 0.6317
+
+Example 66:
+Sentence 1: After 18 months , Nissen found that Lipitor stopped plaque buildup in the patients ' arteries .
+Sentence 2: After 18 months , the atorvastatin patients had no change in the plaque in their arteries .
+Sentence 1 length: 17 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9854
+Worst model confidence: 0.6317
+
+Example 67:
+Sentence 1: " This child was literally neglected to death , " Armstrong County District Attorney Scott Andreassi said .
+Sentence 2: Armstrong County District Attorney Scott Andreassi said the many family photos in the home did not include Kristen .
+Sentence 1 length: 18 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9953
+Worst model confidence: 0.6317
+
+Example 68:
+Sentence 1: SP2 is basically about security enhancements to Windows , such as the improved Internet Connection Firewall ( ICF ) .
+Sentence 2: The firewall in the current Windows XP was known as the Internet Connection Firewall ( ICF ) .
+Sentence 1 length: 20 words
+Sentence 2 length: 18 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9945
+Worst model confidence: 0.6317
+
+Example 69:
+Sentence 1: They will help draft a plan to attack obesity that Kraft will implement over three to four years .
+Sentence 2: The team will help draft a plan by the end of the year to attack obesity .
+Sentence 1 length: 19 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9939
+Worst model confidence: 0.6317
+
+Example 70:
+Sentence 1: Corixa shares rose 54 cents to $ 7.74 yesterday on the Nasdaq Stock Market .
+Sentence 2: Shares of Corixa rose 54 cents , or about 8 percent , to close at $ 7.74 .
+Sentence 1 length: 15 words
+Sentence 2 length: 18 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9910
+Worst model confidence: 0.6317
+
+Example 71:
+Sentence 1: Tom Hamilton said his daughter was conscious and alert and in stable condition after the attack Friday morning .
+Sentence 2: Bethany , who remained in stable condition after the attack Friday morning , talked of the attack Saturday .
+Sentence 1 length: 19 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9938
+Worst model confidence: 0.6317
+
+Example 72:
+Sentence 1: The Calgary woman , who is in her twenties , donated blood on Aug. 7 .
+Sentence 2: The woman -- who has no symptoms of illness -- donated blood Aug. 7 .
+Sentence 1 length: 16 words
+Sentence 2 length: 15 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9931
+Worst model confidence: 0.6317
+
+Example 73:
+Sentence 1: In the weeks leading up to the execution , several Florida officials received anonymous threatening letters .
+Sentence 2: Several Florida officials connected to the case have received threatening letters , accompanied by rifle bullets .
+Sentence 1 length: 17 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9924
+Worst model confidence: 0.6317
+
+Example 74:
+Sentence 1: Friday 's report raised new worries that a weak job market could shackle the budding economic recovery despite a slight improvement in the overall unemployment rate .
+Sentence 2: U.S. companies slashed payrolls for a seventh straight month in August , raising new worries that a weak jobs market could shackle the budding economic recovery .
+Sentence 1 length: 27 words
+Sentence 2 length: 27 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9955
+Worst model confidence: 0.6317
+
+Example 75:
+Sentence 1: GM , the world 's largest automaker , has 115,000 active UAW workers and another 340,000 retirees and spouses .
+Sentence 2: They cover more than 300,000 UAW workers and 500,000 retirees and spouses .
+Sentence 1 length: 20 words
+Sentence 2 length: 13 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9949
+Worst model confidence: 0.6317
+
+Example 76:
+Sentence 1: Rosenthal is hereby sentenced to custody of the Federal Bureau of prisons for one day with credit for time served , " Breyer said to tumultuous cheers in the courtroom .
+Sentence 2: " Rosenthal is hereby sentenced to custody of the Federal Bureau of Prisons for one day with credit for time served . "
+Sentence 1 length: 31 words
+Sentence 2 length: 23 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9935
+Worst model confidence: 0.6317
+
+Example 77:
+Sentence 1: Freddie also said Leland C. Brendsel will retire as chairman and chief executive and resign from the board .
+Sentence 2: He replaces Leland Brendsel , 61 , who retired as chairman and chief executive .
+Sentence 1 length: 19 words
+Sentence 2 length: 15 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9954
+Worst model confidence: 0.6317
+
+Example 78:
+Sentence 1: A pro-independence radical , Miodrag Zivkovic , of the Liberal Alliance , came in second with 31 percent of the vote .
+Sentence 2: Miodrag Zivkovic , of the Liberal Alliance of Montenegro , won 31 percent of the vote while the independent Dragan Hajdukovic got four percent .
+Sentence 1 length: 22 words
+Sentence 2 length: 25 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9949
+Worst model confidence: 0.6317
+
+Example 79:
+Sentence 1: Mr. Kerkorian tried unsuccessfully to take over Chrysler in 1995 , but did win representation on its board .
+Sentence 2: Kerkorian and Tracinda had also tried to take over Chrysler in 1995 .
+Sentence 1 length: 19 words
+Sentence 2 length: 13 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9913
+Worst model confidence: 0.6317
+
+Example 80:
+Sentence 1: Glover spoke at a news conference that included about 20 relatives of the victims .
+Sentence 2: About 20 family members of the victims were invited to the news conference .
+Sentence 1 length: 15 words
+Sentence 2 length: 14 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.6858
+Worst model confidence: 0.6317
+
+Example 81:
+Sentence 1: Singapore Prime Minister Goh Chok Tong says China plays an important role in the integration of Asia , including managing the stresses and strains both within and between countries .
+Sentence 2: HAINAN PROVINCE , China : Singapore Prime Minister Goh Chok Tong said China plays an important role in the integration of Asia .
+Sentence 1 length: 30 words
+Sentence 2 length: 23 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9949
+Worst model confidence: 0.6317
+
+Example 82:
+Sentence 1: The premium edition adds OfficeFront Page 2003 , Acceleration Server 2000 , and SQL Server 2000 .
+Sentence 2: The premium edition adds ISA Server , SQL Server and a specialized edition of BizTalk 2004 .
+Sentence 1 length: 17 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9950
+Worst model confidence: 0.6317
+
+Example 83:
+Sentence 1: In the year-ago quarter , the steelmaker recorded a profit of $ 16.2 million , or 15 cents per share , on sales of $ 1.14 billion .
+Sentence 2: In the second quarter last year , AK Steel reported a profit of $ 16.2 million , or 15 cents a share .
+Sentence 1 length: 28 words
+Sentence 2 length: 23 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9922
+Worst model confidence: 0.6317
+
+Example 84:
+Sentence 1: After the two-hour meeting on May 14 , publisher Arthur O. Sulzberger Jr . , executive editor Howell Raines and managing editor Gerald Boyd pledged quick remedies to staff grievances .
+Sentence 2: The committee will make recommendations to Publisher Arthur Sulzberger , Executive Editor Howell Raines and Managing Editor Gerald Boyd .
+Sentence 1 length: 31 words
+Sentence 2 length: 20 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9946
+Worst model confidence: 0.6317
+
+Example 85:
+Sentence 1: Lu reclined in a soft chair wearing a woolly coat near the blackened capsule .
+Sentence 2: " It 's great to be back home , " said Lu , dressed in a woolly coat near the blackened capsule .
+Sentence 1 length: 15 words
+Sentence 2 length: 23 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9919
+Worst model confidence: 0.6317
+
+Example 86:
+Sentence 1: Estonia 's place in the European mainstream and safeguard its independence regained in 1991 .
+Sentence 2: Estonia was forcibly incorporated in the Soviet Union in 1940 and regained its independence only in 1991 .
+Sentence 1 length: 15 words
+Sentence 2 length: 18 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9953
+Worst model confidence: 0.6317
+
+Example 87:
+Sentence 1: Franklin County Judge-Executive Teresa Barton said a firefighter was struck by lightning and was taken to the Frankfort Regional Medical Center .
+Sentence 2: A county firefighter , was struck by lightning and was in stable condition at Frankfort Regional Medical Center .
+Sentence 1 length: 22 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9953
+Worst model confidence: 0.6317
+
+Example 88:
+Sentence 1: Police suspected that Shaichat , 20 , had been abducted either by Palestinians or by Israeli Arabs .
+Sentence 2: Nobody claimed responsibility for Schaichat 's death , but police suspect that the 20-year-old soldier was abducted either by Palestinians or Israeli Arabs .
+Sentence 1 length: 18 words
+Sentence 2 length: 24 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9946
+Worst model confidence: 0.6317
+
+Example 89:
+Sentence 1: During this year 's August to October quarter , Lowe 's opened 38 new stores , including two relocations .
+Sentence 2: During the third quarter , Lowe 's opened 38 new stores and now has 932 stores in 45 states .
+Sentence 1 length: 20 words
+Sentence 2 length: 20 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9953
+Worst model confidence: 0.6317
+
+Example 90:
+Sentence 1: The technology-laced Nasdaq Composite Index < .IXIC > declined 25.78 points , or 1.56 percent , to 1,627.84 .
+Sentence 2: The broader Standard & Poor 's 500 Index .SPX gave up 11.91 points , or 1.19 percent , at 986.60 .
+Sentence 1 length: 19 words
+Sentence 2 length: 21 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9917
+Worst model confidence: 0.6317
+
+Example 91:
+Sentence 1: Clinton did not mention that two Democratic senators , Charles Robb of Virginia and Wendell Ford of Kentucky , voted to shelve the McCain bill .
+Sentence 2: Two Democrats , Sen. Charles Robb of Virginia and Wendell Ford of Kentucky , voted with the 40 Republicans .
+Sentence 1 length: 26 words
+Sentence 2 length: 20 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9937
+Worst model confidence: 0.6317
+
+Example 92:
+Sentence 1: Wal-Mart has said it plans to open at least 40 Supercenters in the state in the coming years ; analysts expect four or more to be in San Diego County .
+Sentence 2: At least 40 of the outlets will be in California , and analysts expect four or more to be in San Diego County .
+Sentence 1 length: 31 words
+Sentence 2 length: 24 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9750
+Worst model confidence: 0.6317
+
+Example 93:
+Sentence 1: The other inmate fell but Selenski shimmed down the makeshift rope to a second-story roof and used the mattress to scale a razor-wire fence , Fischi said .
+Sentence 2: After the other inmate fell , Selenski used the mattress to scale a 10-foot , razor-wire fence , Fischi said .
+Sentence 1 length: 28 words
+Sentence 2 length: 21 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9882
+Worst model confidence: 0.6317
+
+Example 94:
+Sentence 1: We strongly disagree with Novell 's position and view it as a desperate measure to curry favor with the Linux community .
+Sentence 2: McBride characterized Novell 's move as " a desperate measure to curry favor with the Linux community . "
+Sentence 1 length: 22 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9955
+Worst model confidence: 0.6317
+
+Example 95:
+Sentence 1: It does not affect the current Windows Media Player 9.0 Series .
+Sentence 2: Windows Media Player has had security problems before .
+Sentence 1 length: 12 words
+Sentence 2 length: 9 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9952
+Worst model confidence: 0.6317
+
+Example 96:
+Sentence 1: The seizure took place at 4 a.m. on March 18 , just hours before the first American air assault .
+Sentence 2: The time was about 4 a.m. on March 18 , just hours before the first pinpoint missiles rained down on the capital .
+Sentence 1 length: 20 words
+Sentence 2 length: 23 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9938
+Worst model confidence: 0.6317
+
+Example 97:
+Sentence 1: Thyroid hormones are known to help in weight loss by stimulating metabolism - and cutting cholesterol - but come with the unwanted side effect of speeding up the heartbeat .
+Sentence 2: Thyroid hormones are known to help in weight loss by stimulating metabolism , and they can help cut cholesterol too .
+Sentence 1 length: 30 words
+Sentence 2 length: 21 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9951
+Worst model confidence: 0.6317
+
+Example 98:
+Sentence 1: The Hartford shares rose $ 2.88 , or 6.6 percent , to close Monday at $ 46.50 on the New York Stock Exchange .
+Sentence 2: Shares of Hartford rose $ 2.88 to $ 46.50 in New York Stock Exchange composite trading .
+Sentence 1 length: 24 words
+Sentence 2 length: 17 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9921
+Worst model confidence: 0.6317
+
+Example 99:
+Sentence 1: It decided instead to issue them before the stock market opened Monday after the downgrade of its debt late Friday by Moody 's , the credit rating agency .
+Sentence 2: It decided instead to issue them before the stock market opened Monday to counteract the downgrade of its debt late Friday by Moody 's to one step above junk status .
+Sentence 1 length: 29 words
+Sentence 2 length: 31 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9946
+Worst model confidence: 0.6317
+
+Example 100:
+Sentence 1: Altria shares fell 2.5 percent or $ 1.11 to $ 42.57 and were the Dow 's biggest percentage loser .
+Sentence 2: Its shares fell $ 9.61 to $ 50.26 , ranking as the NYSE 's most-active issue and its biggest percentage loser .
+Sentence 1 length: 20 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9896
+Worst model confidence: 0.6317
+
+Example 101:
+Sentence 1: The study , published Monday in the journal Molecular Brain Research , is likely to also apply to humans , its authors said .
+Sentence 2: The study , conducted on the brains of developing mice , was being published today in the journal Molecular Brain Research .
+Sentence 1 length: 24 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9941
+Worst model confidence: 0.6317
+
+Example 102:
+Sentence 1: " The government elements who have been causing trouble are still in place .
+Sentence 2: The government elements who have been causing trouble are still in place , they are attacking us . "
+Sentence 1 length: 14 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9929
+Worst model confidence: 0.6317
+
+Example 103:
+Sentence 1: SPOT products run a Microsoft operating system and the company 's DirectBand radio technology developed with SCA Data Systems .
+Sentence 2: The DirectBand network was developed with the assistance of SCA Data Systems .
+Sentence 1 length: 20 words
+Sentence 2 length: 13 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9946
+Worst model confidence: 0.6317
+
+Example 104:
+Sentence 1: He replaces Ron Dittemore , who announced his resignation in April .
+Sentence 2: Dittemore announced his plans to resign on April 23 .
+Sentence 1 length: 12 words
+Sentence 2 length: 10 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9953
+Worst model confidence: 0.6317
+
+Example 105:
+Sentence 1: Ross Garber , Rowland 's lawyer , said Tuesday he would attend the meeting and would ask to speak on the issue .
+Sentence 2: Ross Garber , Rowland 's legal counsel , said the governor would have no comment on the condo deal .
+Sentence 1 length: 23 words
+Sentence 2 length: 20 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9947
+Worst model confidence: 0.6317
+
+Example 106:
+Sentence 1: The euro was at 1.5281 versus the Swiss franc EURCHF = , up 0.2 percent on the session , after hitting its highest since mid-2001 around 1.5292 earlier in the session .
+Sentence 2: The euro was steady versus the Swiss franc after hitting its highest since mid-2001 of 1.5261 earlier in the session .
+Sentence 1 length: 32 words
+Sentence 2 length: 21 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9933
+Worst model confidence: 0.6317
+
+Example 107:
+Sentence 1: On the stand Wednesday , she said she was referring only to the kissing .
+Sentence 2: On the stand Wednesday , she testified that she was referring to the kissing before the alleged rape .
+Sentence 1 length: 15 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9921
+Worst model confidence: 0.6317
+
+Example 108:
+Sentence 1: Garner said the group would probably be expanded to include , for example , a Christian and perhaps another Sunni leader .
+Sentence 2: The group has already met several times and Gen. Garner said it probably will be expanded to include a Christian and perhaps another Sunni Muslim leader .
+Sentence 1 length: 22 words
+Sentence 2 length: 27 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9954
+Worst model confidence: 0.6317
+
+Example 109:
+Sentence 1: GE stock closed Friday at $ 30.65 a share , down about 42 cents , on the New York Stock Exchange .
+Sentence 2: GE 's shares closed at $ 30.65 on Friday on the New York Stock Exchange .
+Sentence 1 length: 22 words
+Sentence 2 length: 16 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9927
+Worst model confidence: 0.6317
+
+Example 110:
+Sentence 1: In the United States , heart attacks kill about 460,000 year , in Canada about 80,000 .
+Sentence 2: In the United States , heart attacks kill about 460,000 yearly , according to the National Institutes of Health .
+Sentence 1 length: 17 words
+Sentence 2 length: 20 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9934
+Worst model confidence: 0.6317
+
+Example 111:
+Sentence 1: " It 's a major victory for Maine , and it 's a major victory for other states .
+Sentence 2: The Maine program could be a model for other states .
+Sentence 1 length: 19 words
+Sentence 2 length: 11 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9858
+Worst model confidence: 0.6317
+
+Example 112:
+Sentence 1: The broader Standard & Poor 's 500 Index .SPX edged down 9 points , or 0.98 percent , to 921 .
+Sentence 2: The technology-laced Nasdaq Composite Index < .IXIC > shed 15 points , or 0.98 percent , to 1,492 .
+Sentence 1 length: 21 words
+Sentence 2 length: 19 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9913
+Worst model confidence: 0.6317
+
+Example 113:
+Sentence 1: Their contract will expire at 12 : 01 a.m. Wednesday instead of 12 : 01 a.m. Sunday , said Rian Wathen , organizing director for United Food and Commercial Workers Local 700 .
+Sentence 2: " It has outraged the membership , " said Rian Wathen , organizing director of United Food and Commercial Workers Local 700 .
+Sentence 1 length: 33 words
+Sentence 2 length: 23 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9947
+Worst model confidence: 0.6317
+
+Example 114:
+Sentence 1: The S & P / TSX composite rose 87.74 points on the week , while the TSX Venture Exchange composite gained 44.49 points .
+Sentence 2: On the week , the Dow Jones industrial average rose 11.56 points , while the Nasdaq Stock Market gained 39.42 points .
+Sentence 1 length: 24 words
+Sentence 2 length: 22 words
+True label: 0 (Not paraphrase)
+Best model prediction: 0 (Not paraphrase)
+Worst model prediction: 1 (Paraphrase)
+Best model confidence: 0.9912
+Worst model confidence: 0.6317
+
